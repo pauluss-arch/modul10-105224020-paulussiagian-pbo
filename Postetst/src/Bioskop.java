@@ -1,5 +1,3 @@
-// Simpan file ini dengan nama: BioskopCLI.java
-
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
