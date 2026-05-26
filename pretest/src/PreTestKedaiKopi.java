@@ -18,7 +18,7 @@ public class PreTestKedaiKopi {
 
         mejaTerisi.add(4);
         mejaTerisi.add(7);
-        mejaTerisi.add(4); // Harus otomatis ditolak oleh sistem tanpa error [cite: 31]
+        mejaTerisi.add(4); // Harus otomatis ditolak oleh sistem tanpa error 
 
         hargaMenu.put("Kopi", 15000);
         hargaMenu.put("Teh", 10000);
